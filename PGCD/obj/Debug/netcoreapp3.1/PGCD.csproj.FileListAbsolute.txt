@@ -1,0 +1,13 @@
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.exe
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.deps.json
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.runtimeconfig.json
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.runtimeconfig.dev.json
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.dll
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\bin\Debug\netcoreapp3.1\PGCD.pdb
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.csprojAssemblyReference.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.AssemblyInfo.cs
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.dll
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.pdb
+C:\Users\IDEAPAD\Desktop\Exo C#\PGCD\obj\Debug\netcoreapp3.1\PGCD.genruntimeconfig.cache
